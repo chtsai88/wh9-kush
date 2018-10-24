@@ -1,11 +1,11 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Kush Empire
+bio:                'Jekyll version of the Massively theme by HTML5UP (BIO)'
+description:        "Jekyll version of the Massively theme by HTML5UP (DESC)"
 locale:             en_US
 baseurl: "/wh9-kush/" # the subpath of your site, e.g. /blog
 url: "https://chtsai88.github.io" # the base hostname & protocol for your site
-background_image:   /images/bg.jpg
+background_image: /wh9-kush/images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
@@ -44,9 +44,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Egypt
+#phone:              310-318-5555
+email:              chtsai@students.chccs.k12.nc.us
 
 # Gems
 gems:
