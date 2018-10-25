@@ -1,7 +1,7 @@
 # Site
 title:              Kush Empire
-bio:                'Jekyll version of the Massively theme by HTML5UP (BIO)'
-description:        "Jekyll version of the Massively theme by HTML5UP (DESC)"
+bio:                'Blog about the empire of Kush (BIO)'
+description:        "The latest information about the Kush empire (DESC)"
 locale:             en_US
 baseurl: "/wh9-kush/" # the subpath of your site, e.g. /blog
 url: "https://chtsai88.github.io" # the base hostname & protocol for your site
