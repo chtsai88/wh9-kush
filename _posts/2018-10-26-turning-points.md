@@ -14,11 +14,7 @@ The next key turning point is the invasion of Kushite controlled Egypt by the As
 
 Around 350 CE the Kush empire was in a state of decline, this was due to poor farming practices such as widespread deforestation, overfeeding of cattle, and overuse of farming soil. Due to this decline, the Kush empire was ready to collapse at any moment, but before the Kush empire could fade into oblivion, the Aksum empire conquered Kush. This brought the end of the Kush empire.
 
-<ul>
-				<header>
-		<h3> </h3>
-	</header>
-</ul>
+<div>
 
 Key terms:
 
