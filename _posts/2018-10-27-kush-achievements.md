@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Achievements of the Kush Empire"
-date:   2018-9-31
+date:   2018-10-24
 excerpt: "In this post you will find a list of some amazing things the Kush Empire achieved!"
 image: "/images/pic03.jpg"
 ---
