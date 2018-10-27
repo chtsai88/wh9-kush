@@ -30,11 +30,14 @@ image: "/images/pic03.jpg"
 		<h3> </h3>
 	</header>
 				<li>The third achievement I would like to talk about is their own system of writing, Meroitic script. The Meroitic script was originally developed under the rule of Arkamani I as a way to differentiate Kush from Egyptian culture. Although this system of writing is similar to Egyptian hieroglyphics, it has yet to be deciphered. Meroitic has both cursive and hieroglyphic forms, for general writing and governmental texts, and has a 23 letter alphabet.</li>
-			</ul>
 						<header>
 		<h3> </h3>
 	</header>
 				<li>The fourth achievement on this list is irrigation, irrigation was essential for the success of the Kush empire as it provided the water for the large fields of crops and forests surrounding the city of Meroe. Irrigation was nessesary to provide water for the trees used to create charcoal, and for the crops to feed the city. The Kush people harness the power of the Nile to reroute water in irrigation channels to irrigate the surrounding area.</li>
+						<header>
+		<h3> </h3>
+	</header>
+				<li>The last achievement I would like to address in this post is the government of the Kush empire. Up until around 300 BCE, the governmental structure was modeled off of the Egyptians and was largely theocratic. Priests would decide how long a king would stay in power, and when the king’s time was up, they would kill the king and give power to a new one. This continued until 295 BCE when a king named Arkamani I (The same king that created Meroitic script) came into power. One of the first things Arkamani did as king was to bring a group of soldiers to the temple and murder all of the priests, thus ending their influence over the monarchy. Another interesting part of Kush government was that after king Arkamani there was a long period of time in which Kush was primarily lead by queens.</li>
 			</ul>
 		</div>
 
