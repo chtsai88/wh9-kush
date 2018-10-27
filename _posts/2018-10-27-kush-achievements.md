@@ -29,7 +29,12 @@ image: "/images/pic03.jpg"
 						<header>
 		<h3> </h3>
 	</header>
-				<li>The third achievement I would like to talk about is their own system of writing, Meroitic script. The Meroitic script was originally developed under the rule of Arkamani I as a way to differentiate Kush from Egyptian culture. Although this system of writing is similar to Egyptian hieroglyphics, it has yet to be deciphered. Meroitic has both cursive and hieroglyphic forms, for general writting and governmental texts, and has a 23 letter alphabet.</li>
+				<li>The third achievement I would like to talk about is their own system of writing, Meroitic script. The Meroitic script was originally developed under the rule of Arkamani I as a way to differentiate Kush from Egyptian culture. Although this system of writing is similar to Egyptian hieroglyphics, it has yet to be deciphered. Meroitic has both cursive and hieroglyphic forms, for general writing and governmental texts, and has a 23 letter alphabet.</li>
+			</ul>
+						<header>
+		<h3> </h3>
+	</header>
+				<li>The fourth achievement on this list is irrigation, irrigation was essential for the success of the Kush empire as it provided the water for the large fields of crops and forests surrounding the city of Meroe. Irrigation was nessesary to provide water for the trees used to create charcoal, and for the crops to feed the city. The Kush people harness the power of the Nile to reroute water in irrigation channels to irrigate the surrounding area.</li>
 			</ul>
 		</div>
 
