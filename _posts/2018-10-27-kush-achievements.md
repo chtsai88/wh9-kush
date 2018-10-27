@@ -13,14 +13,11 @@ image: "/images/pic03.jpg"
   <img width="32px" src="https://chtsai88.github.io/wh9-kush/images/iron-ore.svg" style="position: absolute; left: 225px; top: 380px;">
 </div>
 
-<h3>Unordered</h3>
 
-
-
-
+<div class="row">
+		<div class="6u 12u$(small)">
 			<ul>
-
-
+				
 				<li>The Kush empire was largely similar to the Egyptian empire in their culture, buildings, government, and religion. This being said, some Kush rulers made it their mission to differentiate the Kush empire from the empire of Egypt. In this short article, I will outline some of the key achievements that were unique to the Kush empire.</li>
 
 
@@ -34,5 +31,9 @@ image: "/images/pic03.jpg"
 
 
 			</ul>
+		</div>
+
+
+
 
 
