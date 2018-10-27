@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Key Turning Points"
-date:   2018-10-26
+date:   2018-10-22
 excerpt: "An explaination of some of the key turning points in the history of the Kush empire."
 image: "/images/pic02.jpg"
 ---
