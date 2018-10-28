@@ -11,7 +11,7 @@ image: "/images/pic04.jpg"
 In this article, you will learn how to bake your own Kush empire using this simple recipie. 
 <br>
 
-<bold>Ingredients</bold>
+<b>Ingredients</b>
 
 4 tablespoons conquest
 1 cup Nile river
@@ -19,7 +19,21 @@ In this article, you will learn how to bake your own Kush empire using this simp
 2 gallons trade
 2 cups religion
 1 cup military
+9 teaspoons political unrest
+5 cups economy
+1 cup relocation
 
-##Instructions
 
-Add one cup Nile river to a medium sized desert.
+<b>Instructions</b>
+
+- Add 1 cup Nile river to a medium sized desert.
+- Stir in 9 tablespoons political unrest
+- Add 4 tablespoons conquest and 1 cup military, whisk untill a gritty ooze is formed
+- Let sit for 80 years
+- Add 1 cup relocation
+- Mix in 4 cups of iron ore 
+- In a seperate bowl, mix together 5 cups economy, 2 gallons trade, and 2 cups religion
+- Add seperate bowl to main mixture
+- bake for 1,000 years
+
+Enjoy!
