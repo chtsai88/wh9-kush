@@ -56,7 +56,7 @@ image: "/images/pic03.jpg"
 
 .map-icon:hover span {
     visibility: visible;
-    opacity: 1;
+    opacity: 0.8;
 }
 </style>
 <div class="map">
@@ -65,6 +65,10 @@ image: "/images/pic03.jpg"
     <span>Large amounts of iron ore where located around the city of Meroe</span>
   </div>
   <div class="map-icon" style="left: 125px; top: 215px;">
+    <img width="32px" src="/wh9-kush/images/statue.svg">
+    <span>During the 25th dynasty of Egypt, the Kushites constructed many monuments</span>
+  </div>
+  <div class="map-icon" style="left: 150px; top: 385px;">
     <img width="32px" src="/wh9-kush/images/pine-tree.svg">
     <span>The Kushites used nearby forests to create charcoal to fuel their furnaces</span>
   </div>
