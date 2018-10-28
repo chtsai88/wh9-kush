@@ -25,6 +25,7 @@ image: "/images/pic03.jpg"
 }
 
 .map-icon span {
+    visibility: hidden;
     opacity: 0;
     width: 250px;
     background-color: black;
@@ -39,7 +40,7 @@ image: "/images/pic03.jpg"
     left: 50%;
     margin-bottom: 10px;
     margin-left: -109px;
-    transition: opacity 300ms;
+    transition: opacity 300ms, visibility 300ms;
 }
 
 .map-icon span::after {
@@ -54,7 +55,8 @@ image: "/images/pic03.jpg"
 }
 
 .map-icon:hover span {
-    opacity: 0;
+    visibility: visible;
+    opacity: 1;
 }
 </style>
 <div class="map">
@@ -63,11 +65,11 @@ image: "/images/pic03.jpg"
     <span>Large amounts of iron ore where located around the city of Meroe</span>
   </div>
   <div class="map-icon" style="left: 125px; top: 215px;">
-    <img width="32px" src="/wh9-kush/images/iron-ore.svg">
+    <img width="32px" src="/wh9-kush/images/pine-tree.svg">
     <span>The Kushites used nearby forests to create charcoal to fuel their furnaces</span>
   </div>
   <div class="map-icon" style="left: 150px; top: 440px;">
-    <img width="32px" src="/wh9-kush/images/iron-ore.svg">
+    <img width="32px" src="/wh9-kush/images/pyramid.svg">
     <span>There were over 350 tall, slender, pyramids in the Kush empire</span>
   </div>
 </div>
