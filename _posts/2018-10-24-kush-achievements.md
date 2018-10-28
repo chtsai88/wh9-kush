@@ -15,7 +15,7 @@ image: "/images/pic03.jpg"
     margin-right: 60px;
 }
 
-.tooltip {
+.map-icon {
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black;
@@ -24,7 +24,7 @@ image: "/images/pic03.jpg"
     position: relative;
 }
 
-.tooltip span {
+.map-icon span {
     visibility: hidden;
     width: 120px;
     background-color: black;
@@ -39,7 +39,7 @@ image: "/images/pic03.jpg"
     margin-left: -60px;
 }
 
-.tooltip span::after {
+.map-icon span::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -50,7 +50,7 @@ image: "/images/pic03.jpg"
     border-color: black transparent transparent transparent;
 }
 
-.tooltip:hover span {
+.map-icon:hover span {
     visibility: visible;
 }
 </style>
