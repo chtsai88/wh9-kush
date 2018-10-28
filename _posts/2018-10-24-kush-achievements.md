@@ -5,13 +5,67 @@ date:   2018-10-24
 excerpt: "In this post you will find a list of some amazing things the Kush Empire achieved!"
 image: "/images/pic03.jpg"
 ---
+<style>
+.map {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_kush.svg);
+    background-size: cover;
+    width: 500px;
+    height: 560px;
+    float: left;
+    margin-right: 60px;
+}
 
-<div style="background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_kush.svg); background-size: cover; width: 500px; height: 560px; float: left; margin-right: 60px;">
-  <div style="width: 0; height: 0; position: relative; left: 220px; top: 375px;">
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    width: 0;
+    height: 0;
+    position: relative;
+}
+
+.tooltip span {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip span::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover span {
+    visibility: visible;
+}
+</style>
+<div class="map">
+  <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
+    <span>Large amounts of iron ore where located around the city of Meroe</span>
   </div>
-  <div style="width: 0; height: 0; position: relative; left: 225px; top: 380px;">
+  <div class="map-icon" style="left: 125px; top: 215px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
+    <span>The Kushites used nearby forests to create charcoal to fuel their furnaces</span>
+  </div>
+  <div class="map-icon" style="left: 150px; top: 440px;">
+    <img width="32px" src="/wh9-kush/images/iron-ore.svg">
+    <span>There were over 350 tall, slender, pyramids in the Kush empire</span>
   </div>
 </div>
 
