@@ -25,18 +25,21 @@ image: "/images/pic03.jpg"
 }
 
 .map-icon span {
-    visibility: hidden;
-    width: 120px;
+    opacity: 0;
+    width: 250px;
     background-color: black;
     color: #fff;
     text-align: center;
     border-radius: 6px;
-    padding: 5px 0;
+    padding: 4px;
     position: absolute;
+    font-size: 12px;
     z-index: 1;
     bottom: 150%;
     left: 50%;
-    margin-left: -60px;
+    margin-bottom: 10px;
+    margin-left: -109px;
+    transition: opacity 300ms;
 }
 
 .map-icon span::after {
@@ -51,7 +54,7 @@ image: "/images/pic03.jpg"
 }
 
 .map-icon:hover span {
-    visibility: visible;
+    opacity: 0;
 }
 </style>
 <div class="map">
