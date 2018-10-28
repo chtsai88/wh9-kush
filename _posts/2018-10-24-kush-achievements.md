@@ -6,7 +6,7 @@ excerpt: "In this post you will find a list of some amazing things the Kush Empi
 image: "/images/pic03.jpg"
 ---
 
-<div style="background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_kush.svg); background-size: cover; width: 500px; height: 560px; float: left; margin-right: 30px;">
+<div style="background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_kush.svg); background-size: cover; width: 500px; height: 560px; float: left; margin-right: 60px;">
   <div style="width: 0; height: 0; position: relative; left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
   </div>
