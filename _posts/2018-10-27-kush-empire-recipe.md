@@ -14,13 +14,21 @@ In this article, you will learn how to bake your own Kush empire using this simp
 <b>Ingredients</b>
 
 4 tablespoons conquest
+<br>
 1 cup Nile river
+<br>
 4 cups iron ore
+<br>
 2 gallons trade
+<br>
 2 cups religion
+<br>
 1 cup military
+<br>
 9 teaspoons political unrest
+<br>
 5 cups economy
+<br>
 1 cup relocation
 
 
