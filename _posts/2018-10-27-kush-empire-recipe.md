@@ -11,7 +11,7 @@ image: "/images/pic04.jpg"
 In this article, you will learn how to bake your own Kush empire using this simple recipie. 
 <br>
 
-##Ingredients
+<bold>Ingredients</bold>
 
 4 tablespoons conquest
 1 cup Nile river
