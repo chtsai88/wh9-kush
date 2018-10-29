@@ -14,17 +14,17 @@ The next key turning point is the invasion of Kushite controlled Egypt by the As
 
 Around 350 CE the Kush empire was in a state of decline, this was due to poor farming practices such as widespread deforestation, overfeeding of cattle, and overuse of farming soil. Due to this decline, the Kush empire was ready to collapse at any moment, but before the Kush empire could fade into oblivion, the Aksum empire conquered Kush. This brought the end of the Kush empire.
 
-<br>
-<br>
 
-Key terms:
 
-Napata: The first capital of the Kush empire and the capital that the Kushites ruled from during the 25th dynasty of ancient Egypt. 
 
-Lybians: This was the dynasty that was in power before the Kushites invaded ancient Egypt.
+### Key terms
 
-Piankhi: The Kushite king who facilitated the conquering of ancient Egypt.
+**Napata**: The first capital of the Kush empire and the capital that the Kushites ruled from during the 25th dynasty of ancient Egypt. 
 
-Meroe: This is the capital that the Kushites relocated to after being invaded by the Assyrians. The golden age of the Kush empire also occurred here.
+**Lybians**: This was the dynasty that was in power before the Kushites invaded ancient Egypt.
 
-Aksum: The Aksum empire caused the downfall of the Kush empire, they conquered Moroe during a period of economic distress.
+**Piankhi**: The Kushite king who facilitated the conquering of ancient Egypt.
+
+**Meroe**: This is the capital that the Kushites relocated to after being invaded by the Assyrians. The golden age of the Kush empire also occurred here.
+
+**Aksum**: The Aksum empire caused the downfall of the Kush empire, they conquered Moroe during a period of economic distress.
