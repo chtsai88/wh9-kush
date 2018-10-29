@@ -56,7 +56,7 @@ image: "/images/pic03.jpg"
   opacity: 0.8;
 }
 
-.map-icon.city {
+.map-icon .city {
   font-size: 8.43047px;
   font-family: Arial;
   text-decoration: underline;
@@ -64,35 +64,59 @@ image: "/images/pic03.jpg"
   transition: color 500ms, text-decoration-color 500ms;
 }
 
-.map-icon.city.normal {
+.map-icon .city.normal {
   color: rgba(0, 0, 0, 1);
   text-decoration-color: rgba(0, 0, 0, 0);
 }
 
-.map-icon.city.blank {
+.map-icon .city.blank {
   color: rgba(0, 0, 0, 0);
   text-decoration-color: rgba(0, 0, 0, 1);
 }
 
-.map-icon.city.used {
+.map-icon .city.used {
   color: rgba(0, 0, 0, 0);
   text-decoration-color: rgba(0, 0, 0, 0);
 }
 </style>
 <div class="map">
-  <div class="map-icon city blank" style="left: calc(0.39518 * 486.92026px); top: calc(0.39518 * 455.55579px - 12.5px);">Tanis</div>
-  <div class="map-icon city blank" style="left: calc(0.39518 * 573.33038px); top: calc(0.39518 * 390.82343px - 12.5px);">Tyre</div>
-  <div class="map-icon city blank" style="left: calc(0.39518 * 364.18198px); top: calc(0.39518 * 537.71106px - 12.5px);">Memphis</div>
-  <div class="map-icon city blank" style="left: calc(0.39518 * 462.75903px); top: calc(0.39518 * 1064.4442px - 12.5px);">Napata</div>
-  <div class="map-icon city blank" style="left: calc(0.39518 * 441.46796px); top: calc(0.39518 * 728.85986px - 12.5px);">Thebes</div>
-  <div class="map-icon city blank" style="left: calc(0.39518 * 489.99945px); top: calc(0.39518 * 1120.2419px - 12.5px);">Meroë</div>
+  <div class="map-icon" style="left: calc(0.39518 * 486.92026px); top: calc(0.39518 * 455.55579px - 21px);">
+    <span class="city blank" draggable="true">Tanis</span>
+  </div>
+  <div class="map-icon" style="left: calc(0.39518 * 573.33038px); top: calc(0.39518 * 390.82343px - 21px);">
+    <span class="city blank" draggable="true">Tyre</span>
+  </div>
+  <div class="map-icon" style="left: calc(0.39518 * 364.18198px); top: calc(0.39518 * 537.71106px - 21px);">
+    <span class="city blank" draggable="true">Memphis</span>
+  </div>
+  <div class="map-icon" style="left: calc(0.39518 * 462.75903px); top: calc(0.39518 * 1064.4442px - 21px);">
+    <span class="city blank" draggable="true">Napata</span>
+  </div>
+  <div class="map-icon" style="left: calc(0.39518 * 441.46796px); top: calc(0.39518 * 728.85986px - 21px);">
+    <span class="city blank" draggable="true">Thebes</span>
+  </div>
+  <div class="map-icon" style="left: calc(0.39518 * 489.99945px); top: calc(0.39518 * 1120.2419px - 21px);">
+    <span class="city blank" draggable="true">Meroë</span>
+  </div>
 
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 200px;">Memphis</div>
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 215px;">Meroë</div>
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 230px;">Napata</div>
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 245px;">Tanis</div>
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 260px;">Thebes</div>
-  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 275px;">Tyre</div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 200px;">
+    <span class="city normal">Memphis</span>
+  </div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 215px;">
+    <span class="city normal">Meroë</span>
+  </div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 230px;">
+    <span class="city normal">Napata</span>
+  </div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 245px;">
+    <span class="city normal">Tanis</span>
+  </div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 260px;">
+    <span class="city normal">Thebes</span>
+  </div>
+  <div class="map-icon" draggable="true" style="left: 20px; top: 275px;">
+    <span class="city normal">Tyre</span>
+  </div>
   
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
