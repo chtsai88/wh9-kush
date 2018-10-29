@@ -523,7 +523,7 @@
      x="-186.0735"
      height="323.04764"
      width="1712.7618" />
-  <text
+  <!--<text
      xml:space="preserve"
      id="text7271"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -532,8 +532,8 @@
        id="tspan7273"
        y="455.55579"
        x="486.92026"
-       style="stroke-width:2.13333344">Tanis</tspan></text>
-  <text
+       style="stroke-width:2.13333344">Tanis</tspan></text>-->
+  <!--<text
      xml:space="preserve"
      id="text7343"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -542,8 +542,8 @@
        id="tspan7345"
        y="390.82343"
        x="573.33038"
-       style="stroke-width:2.13333344">Tyre</tspan></text>
-  <text
+       style="stroke-width:2.13333344">Tyre</tspan></text>-->
+  <!--<text
      xml:space="preserve"
      id="text7359"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -552,8 +552,8 @@
        id="tspan7361"
        y="537.71106"
        x="364.18198"
-       style="stroke-width:2.13333344">Memphis</tspan></text>
-  <text
+       style="stroke-width:2.13333344">Memphis</tspan></text>-->
+  <!--<text
      xml:space="preserve"
      id="text7417"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -562,7 +562,7 @@
        id="tspan7419"
        y="1064.4442"
        x="462.75903"
-       style="stroke-width:2.13333344">Napata</tspan></text>
+       style="stroke-width:2.13333344">Napata</tspan></text>-->
   <path
      id="path7429"
      style="fill:#d7eef4;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -833,7 +833,7 @@
      style="font-size:21.63804245px;font-family:Arial;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path5358-3"
      inkscape:connector-curvature="0" />
-  <text
+  <!--<text
      xml:space="preserve"
      id="text7375-6"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -842,8 +842,8 @@
        id="tspan7377-7"
        y="728.85986"
        x="441.46796"
-       style="stroke-width:2.13333344">Thebes</tspan></text>
-  <text
+       style="stroke-width:2.13333344">Thebes</tspan></text>-->
+  <!--<text
      xml:space="preserve"
      id="text7417-5"
      style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:0%;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -852,7 +852,7 @@
        id="tspan7419-3"
        y="1120.2419"
        x="489.99945"
-       style="stroke-width:2.13333344">Meroë</tspan></text>
+       style="stroke-width:2.13333344">Meroë</tspan></text>-->
   <path
      d="m 568.38304,1112.0234 c 0,3.2273 -2.6162,5.8435 -5.84347,5.8435 -3.22727,0 -5.84348,-2.6162 -5.84348,-5.8435 0,-3.2273 2.61621,-5.8435 5.84348,-5.8435 3.22727,0 5.84347,2.6162 5.84347,5.8435 z"
      style="font-size:21.63804245px;font-family:Arial;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
