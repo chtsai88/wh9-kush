@@ -127,6 +127,10 @@ image: "/images/pic03.jpg"
     <span draggable="true" class="city usable">Tyre</span>
   </div>
   
+  <div class="map-icon" style="left: 140px; top: 500px;">
+    <span class="city normal">Drag&nbsp;and&nbsp;drop&nbsp;the&nbsp;cities&nbsp;to&nbsp;their&nbsp;correct&nbsp;location&nbsp;on&nbsp;the&nbsp;map.</span>
+  </div>
+  
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
     <span class="tooltip">Large amounts of iron ore where located around the city of Meroe</span>
