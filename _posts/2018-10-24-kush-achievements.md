@@ -74,6 +74,12 @@ image: "/images/pic03.jpg"
   text-decoration-color: rgba(0, 0, 0, 1);
 }
 
+.map-icon .city.usable {
+  color: rgba(0, 0, 0, 1);
+  text-decoration-color: rgba(0, 0, 0, 0);
+  cursor: grab;
+}
+
 .map-icon .city.used {
   color: rgba(0, 0, 0, 0);
   text-decoration-color: rgba(0, 0, 0, 0);
@@ -100,22 +106,22 @@ image: "/images/pic03.jpg"
   </div>
 
   <div class="map-icon" style="left: 20px; top: 200px;">
-    <span draggable="true" class="city normal">Memphis</span>
+    <span draggable="true" class="city usable">Memphis</span>
   </div>
   <div class="map-icon" style="left: 20px; top: 215px;">
-    <span draggable="true" class="city normal">Meroë</span>
+    <span draggable="true" class="city usable">Meroë</span>
   </div>
   <div class="map-icon" style="left: 20px; top: 230px;">
-    <span draggable="true" class="city normal">Napata</span>
+    <span draggable="true" class="city usable">Napata</span>
   </div>
   <div class="map-icon" style="left: 20px; top: 245px;">
-    <span draggable="true" class="city normal">Tanis</span>
+    <span draggable="true" class="city usable">Tanis</span>
   </div>
   <div class="map-icon" style="left: 20px; top: 260px;">
-    <span draggable="true" class="city normal">Thebes</span>
+    <span draggable="true" class="city usable">Thebes</span>
   </div>
   <div class="map-icon" style="left: 20px; top: 275px;">
-    <span draggable="true" class="city normal">Tyre</span>
+    <span draggable="true" class="city usable">Tyre</span>
   </div>
   
   <div class="map-icon" style="left: 220px; top: 375px;">
