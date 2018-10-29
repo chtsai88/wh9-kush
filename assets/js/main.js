@@ -276,6 +276,7 @@
 	  		$(this).removeClass('used')
   			$(this).addClass('normal')
       }
+      correct = false
     })
 
 		$('.map-icon .city.blank').on('dragover', function(e) {
