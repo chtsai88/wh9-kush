@@ -279,7 +279,11 @@
       correct = false
     })
 
-		$('.map-icon .city.blank').on('dragover', function(e) {
+    $('.map').on('dragover', function(e) {
+      e.preventDefault()
+    })
+    
+    $('.map-icon .city.blank').on('dragover', function(e) {
       e.preventDefault()
     }).on('drop', function(e) {
       e.preventDefault()
