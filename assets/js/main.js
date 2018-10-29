@@ -266,7 +266,7 @@
     let $dragged = null
     let correct = false
     
-    $('.map-icon.city.normal').on('dragstart', function(e) {
+    $('.map-icon .city.normal').on('dragstart', function(e) {
       $dragged = $(this)
 
 			$(this).removeClass('normal')
@@ -278,7 +278,7 @@
       }
     })
 
-		$('.map-icon.city.blank').on('dragover', function(e) {
+		$('.map-icon .city.blank').on('dragover', function(e) {
       e.preventDefault()
     }).on('drop', function(e) {
       e.preventDefault()
