@@ -99,23 +99,23 @@ image: "/images/pic03.jpg"
     <span class="city blank" draggable="true">Meroë</span>
   </div>
 
-  <div class="map-icon" draggable="true" style="left: 20px; top: 200px;">
-    <span class="city normal">Memphis</span>
+  <div class="map-icon" style="left: 20px; top: 200px;">
+    <span draggable="true" class="city normal">Memphis</span>
   </div>
-  <div class="map-icon" draggable="true" style="left: 20px; top: 215px;">
-    <span class="city normal">Meroë</span>
+  <div class="map-icon" style="left: 20px; top: 215px;">
+    <span draggable="true" class="city normal">Meroë</span>
   </div>
-  <div class="map-icon" draggable="true" style="left: 20px; top: 230px;">
-    <span class="city normal">Napata</span>
+  <div class="map-icon" style="left: 20px; top: 230px;">
+    <span draggable="true" class="city normal">Napata</span>
   </div>
-  <div class="map-icon" draggable="true" style="left: 20px; top: 245px;">
-    <span class="city normal">Tanis</span>
+  <div class="map-icon" style="left: 20px; top: 245px;">
+    <span draggable="true" class="city normal">Tanis</span>
   </div>
-  <div class="map-icon" draggable="true" style="left: 20px; top: 260px;">
-    <span class="city normal">Thebes</span>
+  <div class="map-icon" style="left: 20px; top: 260px;">
+    <span draggable="true" class="city normal">Thebes</span>
   </div>
-  <div class="map-icon" draggable="true" style="left: 20px; top: 275px;">
-    <span class="city normal">Tyre</span>
+  <div class="map-icon" style="left: 20px; top: 275px;">
+    <span draggable="true" class="city normal">Tyre</span>
   </div>
   
   <div class="map-icon" style="left: 220px; top: 375px;">
