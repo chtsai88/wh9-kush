@@ -89,22 +89,22 @@ image: "/images/pic03.jpg"
 }
 </style>
 <div class="map">
-  <div class="map-icon" style="left: calc(0.39518 * 486.92026px); top: calc(0.39518 * 455.55579px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 486.92026px); top: calc(0.39518 * 455.55579px - 25px);">
     <span class="city blank" draggable="true">Tanis</span>
   </div>
-  <div class="map-icon" style="left: calc(0.39518 * 573.33038px); top: calc(0.39518 * 390.82343px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 573.33038px); top: calc(0.39518 * 390.82343px - 25px);">
     <span class="city blank" draggable="true">Tyre</span>
   </div>
-  <div class="map-icon" style="left: calc(0.39518 * 364.18198px); top: calc(0.39518 * 537.71106px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 364.18198px); top: calc(0.39518 * 537.71106px - 25px);">
     <span class="city blank" draggable="true">Memphis</span>
   </div>
-  <div class="map-icon" style="left: calc(0.39518 * 462.75903px); top: calc(0.39518 * 1064.4442px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 462.75903px); top: calc(0.39518 * 1064.4442px - 25px);">
     <span class="city blank" draggable="true">Napata</span>
   </div>
-  <div class="map-icon" style="left: calc(0.39518 * 441.46796px); top: calc(0.39518 * 728.85986px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 441.46796px); top: calc(0.39518 * 728.85986px - 25px);">
     <span class="city blank" draggable="true">Thebes</span>
   </div>
-  <div class="map-icon" style="left: calc(0.39518 * 489.99945px); top: calc(0.39518 * 1120.2419px - 21px);">
+  <div class="map-icon" style="left: calc(0.39518 * 489.99945px); top: calc(0.39518 * 1120.2419px - 25px);">
     <span class="city blank" draggable="true">Meroë</span>
   </div>
 
