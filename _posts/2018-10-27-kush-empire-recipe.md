@@ -12,15 +12,15 @@ In this article, you will learn how to bake your own Kush empire using this simp
 
 ### Ingredients
 
-- 4 tablespoons conquest
-- 1 cup Nile river
-- 4 cups iron ore
-- 2 gallons trade
-- 2 cups religion
-- 1 cup military
-- 9 teaspoons political unrest
-- 5 cups economy
-- 1 cup relocation
+- 4 tablespoons conquest (Yeast for expansion)
+- 1 cup Nile river (Unbleached flour for neutrients)
+- 4 cups iron ore (Forsting for wealth)
+- 2 gallons trade (Eggs for binding the empire)
+- 2 cups religion ( Sprinkles for flavor/decoration)
+- 1 cup military (Baking powder for expansion)
+- 9 teaspoons political unrest (Not part of this cake, a weakness in another cake)
+- 5 cups economy (Butter to bind the empire and make things have nice consistency)
+- 1 cup relocation (Bowl for creating the cake in)
 
 
 ### Instructions
