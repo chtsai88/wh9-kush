@@ -266,15 +266,15 @@
     let $dragged = null
     let correct = false
     
-    $('.map-icon .city.normal').on('dragstart', function(e) {
+    $('.map-icon .city.usable').on('dragstart', function(e) {
       $dragged = $(this)
 
-			$(this).removeClass('normal')
+			$(this).removeClass('usable')
 			$(this).addClass('used')
     }).on('dragend', function(e) {
       if (!correct) {
 	  		$(this).removeClass('used')
-  			$(this).addClass('normal')
+  			$(this).addClass('usable')
       }
       correct = false
     })
