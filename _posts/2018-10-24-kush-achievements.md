@@ -57,6 +57,9 @@ image: "/images/pic03.jpg"
 }
 
 .map-icon .city {
+  display: inline-block;
+  height: 24px;
+  line-height: 24px;
   font-size: 8.43047px;
   font-family: Arial;
   text-decoration: underline;
