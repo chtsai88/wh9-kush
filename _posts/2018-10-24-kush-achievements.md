@@ -63,12 +63,12 @@ image: "/images/pic03.jpg"
 }
 </style>
 <div class="map">
-  <div class="map-icon name" style="top: calc(0.39518 * 537.71106px - 31px); left: calc(0.39518 * 364.18198px - 10.5px);">Memphis</div>
-  <div class="map-icon name" style="top: calc(0.39518 * 486.92026px - 31px); left: calc(0.39518 * 455.55579px - 10.5px);">Tanis</div>
-  <div class="map-icon name" style="top: calc(0.39518 * 573.33038px - 31px); left: calc(0.39518 * 390.82343px - 10.5px);">Tyre</div>
-  <div class="map-icon name" style="top: calc(0.39518 * 462.75903px - 31px); left: calc(0.39518 * 1064.4442px - 10.5px);">Napata</div>
-  <div class="map-icon name" style="top: calc(0.39518 * 441.46796px - 31px); left: calc(0.39518 * 728.85986px - 10.5px);">Thebes</div>
-  <div class="map-icon name" style="top: calc(0.39518 * 489.99945px - 31px); left: calc(0.39518 * 1120.2419px - 10.5px);">Meroë</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 486.92026px - 10.5px); top: calc(0.39518 * 455.55579px - 31px);">Tanis</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 573.33038px - 10.5px); top: calc(0.39518 * 390.82343px - 31px);">Tyre</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 364.18198px - 10.5px); top: calc(0.39518 * 537.71106px - 31px);">Memphis</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 462.75903px - 10.5px); top: calc(0.39518 * 1064.4442px - 31px);">Napata</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 441.46796px - 10.5px); top: calc(0.39518 * 728.85986px - 31px);">Thebes</div>
+  <div class="map-icon name" style="left: calc(0.39518 * 489.99945px - 10.5px); top: calc(0.39518 * 1120.2419px - 31px);">Meroë</div>
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
     <span>Large amounts of iron ore where located around the city of Meroe</span>
