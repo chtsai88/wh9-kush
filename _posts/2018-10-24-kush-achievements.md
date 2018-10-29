@@ -21,7 +21,7 @@ image: "/images/pic03.jpg"
   height: 0;
 }
 
-.map-icon span {
+.map-icon .tooltip {
   visibility: hidden;
   opacity: 0;
   width: 250px;
@@ -40,7 +40,7 @@ image: "/images/pic03.jpg"
   transition: opacity 300ms, visibility 300ms;
 }
 
-.map-icon span::after {
+.map-icon .tooltip::after {
   content: "";
   position: absolute;
   top: 100%;
@@ -51,7 +51,7 @@ image: "/images/pic03.jpg"
   border-color: black transparent transparent transparent;
 }
 
-.map-icon:hover span {
+.map-icon:hover .tooltip {
   visibility: visible;
   opacity: 0.8;
 }
@@ -120,19 +120,19 @@ image: "/images/pic03.jpg"
   
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
-    <span>Large amounts of iron ore where located around the city of Meroe</span>
+    <span class="tooltip">Large amounts of iron ore where located around the city of Meroe</span>
   </div>
   <div class="map-icon" style="left: 125px; top: 215px;">
     <img width="32px" src="/wh9-kush/images/statue.svg">
-    <span>During the 25th dynasty of Egypt, the Kushites constructed many monuments</span>
+    <span class="tooltip">During the 25th dynasty of Egypt, the Kushites constructed many monuments</span>
   </div>
   <div class="map-icon" style="left: 150px; top: 385px;">
     <img width="32px" src="/wh9-kush/images/pine-tree.svg">
-    <span>The Kushites used nearby forests to create charcoal to fuel their furnaces</span>
+    <span class="tooltip">The Kushites used nearby forests to create charcoal to fuel their furnaces</span>
   </div>
   <div class="map-icon" style="left: 150px; top: 440px;">
     <img width="32px" src="/wh9-kush/images/pyramid.svg">
-    <span>There were over 350 tall, slender, pyramids in the Kush empire</span>
+    <span class="tooltip">There were over 350 tall, slender, pyramids in the Kush empire</span>
   </div>
 </div>
 
