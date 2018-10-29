@@ -7,10 +7,10 @@ image: "/images/pic03.jpg"
 ---
 <style>
 .map {
-    background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_kush.svg);
+    background: url(/wh9-kush/images/map.svg);
     background-size: cover;
     width: 500px;
-    height: 560px;
+    height: 570px;
     float: left;
     margin-right: 60px;
 }
@@ -18,10 +18,8 @@ image: "/images/pic03.jpg"
 .map-icon {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black;
     width: 0;
     height: 0;
-    position: relative;
 }
 
 .map-icon span {
@@ -58,8 +56,19 @@ image: "/images/pic03.jpg"
     visibility: visible;
     opacity: 0.8;
 }
+
+.map-icon.name {
+    font-size: 8.43047px;
+    font-family: Arial;
+}
 </style>
 <div class="map">
+  <div class="map-icon name" style="top: calc(0.39518 * 537.71106px - 31px); left: calc(0.39518 * 364.18198px - 10.5px);">Memphis</div>
+  <div class="map-icon name" style="top: calc(0.39518 * 486.92026px - 31px); left: calc(0.39518 * 455.55579px - 10.5px);">Tanis</div>
+  <div class="map-icon name" style="top: calc(0.39518 * 573.33038px - 31px); left: calc(0.39518 * 390.82343px - 10.5px);">Tyre</div>
+  <div class="map-icon name" style="top: calc(0.39518 * 462.75903px - 31px); left: calc(0.39518 * 1064.4442px - 10.5px);">Napata</div>
+  <div class="map-icon name" style="top: calc(0.39518 * 441.46796px - 31px); left: calc(0.39518 * 728.85986px - 10.5px);">Thebes</div>
+  <div class="map-icon name" style="top: calc(0.39518 * 489.99945px - 31px); left: calc(0.39518 * 1120.2419px - 10.5px);">Meroë</div>
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
     <span>Large amounts of iron ore where located around the city of Meroe</span>
