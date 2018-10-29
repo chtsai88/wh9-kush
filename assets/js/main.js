@@ -263,6 +263,31 @@
 
 			}
 
-	});
+    let $dragged = null
+    let correct = false
+    
+    $('.map-icon.city.normal').on('dragstart', function(e) {
+      $dragged = $(this)
+
+			$(this).removeClass('normal')
+			$(this).addClass('used')
+    }).on('dragend', function(e) {
+      if (!correct) {
+	  		$(this).removeClass('used')
+  			$(this).addClass('normal')
+      }
+    })
+
+		$('.map-icon.city.blank').on('dragover', function(e) {
+      e.preventDefault()
+    }).on('drop', function(e) {
+      e.preventDefault()
+			correct = $dragged.text() === $(this).text()
+      if (correct) {
+        $(this).removeClass('blank')
+	  		$(this).addClass('normal')
+      }
+    })
+  });
 
 })(jQuery);
