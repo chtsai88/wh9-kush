@@ -111,19 +111,19 @@ image: "/images/pic03.jpg"
   <div class="map-icon" style="left: 20px; top: 200px;">
     <span draggable="true" class="city usable">Memphis</span>
   </div>
-  <div class="map-icon" style="left: 20px; top: 215px;">
+  <div class="map-icon" style="left: 20px; top: 220px;">
     <span draggable="true" class="city usable">Meroë</span>
   </div>
-  <div class="map-icon" style="left: 20px; top: 230px;">
+  <div class="map-icon" style="left: 20px; top: 240px;">
     <span draggable="true" class="city usable">Napata</span>
   </div>
-  <div class="map-icon" style="left: 20px; top: 245px;">
+  <div class="map-icon" style="left: 20px; top: 260px;">
     <span draggable="true" class="city usable">Tanis</span>
   </div>
-  <div class="map-icon" style="left: 20px; top: 260px;">
+  <div class="map-icon" style="left: 20px; top: 280px;">
     <span draggable="true" class="city usable">Thebes</span>
   </div>
-  <div class="map-icon" style="left: 20px; top: 275px;">
+  <div class="map-icon" style="left: 20px; top: 300px;">
     <span draggable="true" class="city usable">Tyre</span>
   </div>
   
