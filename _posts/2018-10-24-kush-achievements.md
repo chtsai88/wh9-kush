@@ -7,73 +7,76 @@ image: "/images/pic03.jpg"
 ---
 <style>
 .map {
-    background: url(/wh9-kush/images/map.svg);
-    background-size: cover;
-    width: 500px;
-    height: 570px;
-    float: left;
-    margin: 0 60px 20px 0;
+  background: url(/wh9-kush/images/map.svg);
+  background-size: cover;
+  width: 500px;
+  height: 570px;
+  float: left;
+  margin: 0 60px 20px 0;
 }
 
 .map-icon {
-    position: relative;
-    width: 0;
-    height: 0;
+  position: relative;
+  width: 0;
+  height: 0;
 }
 
 .map-icon span {
-    visibility: hidden;
-    opacity: 0;
-    width: 250px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 4px;
-    position: absolute;
-    font-size: 12px;
-    z-index: 1;
-    bottom: 150%;
-    left: 50%;
-    margin-bottom: 10px;
-    margin-left: -109px;
-    transition: opacity 300ms, visibility 300ms;
+  visibility: hidden;
+  opacity: 0;
+  width: 250px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 4px;
+  position: absolute;
+  font-size: 12px;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-bottom: 10px;
+  margin-left: -109px;
+  transition: opacity 300ms, visibility 300ms;
 }
 
 .map-icon span::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black transparent transparent transparent;
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
 }
 
 .map-icon:hover span {
-    visibility: visible;
-    opacity: 0.8;
+  visibility: visible;
+  opacity: 0.8;
 }
 
 .map-icon.city {
-    font-size: 8.43047px;
-    font-family: Arial;
-    color: rgba(0, 0, 0, 1);
-    text-decoration: underline;
-    text-decoration-color: rgba(0, 0, 0, 0);
-    text-decoration-skip-ink: none;
-    transition: color 500ms, text-decoration-color 500ms;
+  font-size: 8.43047px;
+  font-family: Arial;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  transition: color 500ms, text-decoration-color 500ms;
+}
+
+.map-icon.city.normal {
+  color: rgba(0, 0, 0, 1);
+  text-decoration-color: rgba(0, 0, 0, 0);
 }
 
 .map-icon.city.blank {
-    color: rgba(0, 0, 0, 0);
-    text-decoration-color: rgba(0, 0, 0, 1);
+  color: rgba(0, 0, 0, 0);
+  text-decoration-color: rgba(0, 0, 0, 1);
 }
 
 .map-icon.city.used {
-    color: rgba(0, 0, 0, 0);
-    text-decoration-color: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0);
+  text-decoration-color: rgba(0, 0, 0, 0);
 }
 </style>
 <div class="map">
@@ -84,12 +87,12 @@ image: "/images/pic03.jpg"
   <div class="map-icon city blank" style="left: calc(0.39518 * 441.46796px); top: calc(0.39518 * 728.85986px - 12.5px);">Thebes</div>
   <div class="map-icon city blank" style="left: calc(0.39518 * 489.99945px); top: calc(0.39518 * 1120.2419px - 12.5px);">Meroë</div>
 
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 200px;">Memphis</div>
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 215px;">Meroë</div>
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 230px;">Napata</div>
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 245px;">Tanis</div>
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 260px;">Thebes</div>
-  <div class="map-icon city" draggable="true" style="left: 20px; top: 275px;">Tyre</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 200px;">Memphis</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 215px;">Meroë</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 230px;">Napata</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 245px;">Tanis</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 260px;">Thebes</div>
+  <div class="map-icon city normal" draggable="true" style="left: 20px; top: 275px;">Tyre</div>
   
   <div class="map-icon" style="left: 220px; top: 375px;">
     <img width="32px" src="/wh9-kush/images/iron-ore.svg">
